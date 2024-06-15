@@ -1,7 +1,6 @@
 # VoteChain
 
-A new Flutter project.
-
+Proyecto FrontEnd utilizando la API REST desarollada en BlockChain
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+flutter pub get -> para resolver dependencias y poder ejecutar en local con flutter y dart instalados 
